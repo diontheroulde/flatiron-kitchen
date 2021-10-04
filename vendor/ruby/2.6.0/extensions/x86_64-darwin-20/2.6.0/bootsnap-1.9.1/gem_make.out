@@ -1,0 +1,15 @@
+current directory: /Users/diontherouldejr/defenders/phase-4/flatiron-kitchen/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+/Users/diontherouldejr/.asdf/installs/ruby/2.6.1/bin/ruby -I /Users/diontherouldejr/.asdf/installs/ruby/2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211003-32340-d8m5bc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/diontherouldejr/defenders/phase-4/flatiron-kitchen/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/diontherouldejr/defenders/phase-4/flatiron-kitchen/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/diontherouldejr/defenders/phase-4/flatiron-kitchen/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20211003-32340-1mh897s/bootsnap
